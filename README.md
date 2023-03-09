@@ -6,6 +6,5 @@ Temporal Super-Resolution using Multi-Channel Illumination Source
 Paper: https://arxiv.org/abs/2211.14198
 
 ## Example
-
-<img width="1185" alt="Diagram" src="[https://user-images.githubusercontent.com/52878011/219036726-c6b3864b-fd44-4fa3-8668-8ef52a7a3a34.png](https://user-images.githubusercontent.com/52878011/223984410-23870356-6ba2-4303-a050-d30c217dcb40.png)">
+<img width="1185" alt="Diagram" src="https://user-images.githubusercontent.com/52878011/223984410-23870356-6ba2-4303-a050-d30c217dcb40.png">
 
