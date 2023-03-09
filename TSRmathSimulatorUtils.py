@@ -5,8 +5,6 @@ __date__ = '1.3.2023'
 
 import numpy as np
 import matplotlib.pyplot as plt
-import os
-import shutil
 from scipy import fftpack
 from scipy import signal
 
